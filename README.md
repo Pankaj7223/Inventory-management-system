@@ -1,6 +1,5 @@
 # Inventory management system #
 
-# Inventory-Management-syatem
 A Project to implement OOPM to build a Inventory Management System to Add, Search, Update, Delete and Generate Summary Report using CLI
 
 ### Scenario
